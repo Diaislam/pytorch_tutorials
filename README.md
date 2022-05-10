@@ -34,6 +34,6 @@ PyTorch was initially used more in research for fast prototyping , but lately it
 ### <b>[1. Prerequisites](prerequisites.md)</b>
 ### <b>[2. Preparing your deep learning environment](deeplearning-environment.md)</b>
 ### <b>[3. Installing python & pytorch](python-pytorch-installation.md)</b>
-### <b>[4. Basic python](python-reminder.ipynb)</b>
+### <b>[4. Basic python](basic-python.ipynb)</b>
 ### <b>[5. Tenosrs & Operations](tensors-operations.ipynb)</b>
 ### <b> TODO
